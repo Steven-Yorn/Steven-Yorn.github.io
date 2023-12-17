@@ -13,14 +13,14 @@ EDUCATION
 ======
 * B.S. Applied Physics, University of Science and Technology of China, 2024.07(expected)<br/>
   GPA: 3.99/4.3, Ranking: Top 3%
-
+<br><br>
   
 LAB EXPERIENCE
 ======
 * [Lab for Low-dimensional Physics](http://staff.ustc.edu.cn/~cgzeng/index.html), USTC, Research Assistant, 2020.10 - Present 
 * [A Single-/Few-/Many- Body Quantum Physics Lab](https://brownlab.yale.edu/), Yale, Research Collaborator, 2023.02 - Present
 * [Hoffman Lab](https://hoffman.physics.harvard.edu/), Harvard, Visiting Research Intern, 2023.08 - Present
-
+<br><br>
 
 PUBLICATION & MANUSCRIPTS
 ======
@@ -33,14 +33,14 @@ Yu Yao#, Zhanbo Fang#, Jinze Fan#, Chaojie Luo, Shuangxiang Wu, Hui Zhang\*, **U
 Yu Yao, Cedric Wilson, Charles Brown\*, **Two-dimensional dynamic optical quasicrystalline lattices with 10-fold rotational symmetry**, invited for a paper by *Optica*.
 
 NOTE: \* represents the corresponding authorship and # represents the co-first authorship.
-
+<br><br>
 
 TECHNICAL EXPERTISE
 ======
 Experimental: AFM, STM, Material Surface Process (Sputtering, Annealing, Cleaving), UHV Operations.
 Numerical: ImageJ, Gwyddion, Gatan, VASP, MATLAB, LATEX, Origin, SOLIDWORKS.
 Language: C/C++, Python
-
+<br><br>
 
 Awards
 ======
