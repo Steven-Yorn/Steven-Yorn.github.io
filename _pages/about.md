@@ -38,15 +38,15 @@ News
 ======
 <iframe style="border: 3px solid #ccc; overflow-y: scroll; height: 300px; width: 800px; " srcdoc="
   <ul>
-    <li><strong>2023-11-31:</strong> Our paper Research on solitons’ interactions in one-dimensional indium chains on Si(111) surfaces is published at [<em>Journal of Physics: Conference Series</em>, <strong>2639</strong>, 012051 (2023)](https://iopscience.iop.org/article/10.1088/1742-6596/2639/1/012051)</li>
-    <li><strong>2023-09-20:</strong> Awarded <strong>National Scholarship</strong></li>
-    <li><strong>2023-09-12:</strong> Invited to write an article for <strong>Optica</strong> as the lead author, with <strong>Prof. Charles Brown @ Yale</strong></li>
-    <li><strong>2023-08-15:</strong> Initiated a 6-month-long on-site research under the guidance of <strong>Prof. Jenny Hoffman @ Harvard</strong></li>
-  <li><strong>2023-07-10:</strong> Awarded the <strong>Excellent Academic Report Prize</strong> at the Chinese Material Conference 2022~2023, Shenzhen</li>
-    <li><strong>2023-03-10:</strong> Awarded the <strong>Excellent Peer Mentor in USTC</strong></li>
-    <li><strong>2023-03-05:</strong> Initiated a remote research under the guidance of <strong>Prof. Charles Brown @ Yale</strong></li>
-    <li><strong>2023-03-01:</strong> Obtain the TA position of <em>Electronic and Circuits(210515.02.2023SP)</em> in 2023 spring</li>
-    <li><strong>2023-03-01:</strong> Awarded the <strong>Excellent Teaching Assistant in USTC</strong></li>
+    <li><strong>2023-11-31:</strong> Our paper Research on solitons’ interactions in one-dimensional indium chains on Si(111) surfaces is published at <em>Journal of Physics: Conference Series</em>, <strong>2639</strong>, 012051 (2023).</li>
+    <li><strong>2023-09-20:</strong> Awarded <strong>National Scholarship.</strong></li>
+    <li><strong>2023-09-12:</strong> Invited to write an article for <strong>Optica</strong> as the lead author, with <strong>Prof. Charles Brown @ Yale.</strong></li>
+    <li><strong>2023-08-15:</strong> Initiated a 6-month-long on-site research under the guidance of <strong>Prof. Jenny Hoffman @ Harvard</strong>.</li>
+  <li><strong>2023-07-10:</strong> Awarded the <strong>Excellent Academic Report Prize</strong> at the Chinese Material Conference 2022~2023, Shenzhen.</li>
+    <li><strong>2023-03-10:</strong> Awarded the <strong>Excellent Peer Mentor in USTC</strong>.</li>
+    <li><strong>2023-03-05:</strong> Initiated a remote research under the guidance of <strong>Prof. Charles Brown @ Yale</strong>.</li>
+    <li><strong>2023-03-01:</strong> Obtain the TA position of <em>Electronic and Circuits(210515.02.2023SP)</em> in 2023 spring.</li>
+    <li><strong>2023-03-01:</strong> Awarded the <strong>Excellent Teaching Assistant in USTC</strong>.</li>
     <!-- MORE -->
   </ul>
 "></iframe>
