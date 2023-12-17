@@ -22,17 +22,15 @@ This is the front page of a website that is powered by the [academicpages templa
 
 Resaerch Insterests
 ======
-In pursuit of being a **condensed matter physics experimentalist**, my research is driven by the goal of developing robust and efficient methodologies for delving into the fundamental properties of novel materials with [STM](https://en.wikipedia.org/wiki/Scanning_tunneling_microscope), [MBE](https://en.wikipedia.org/wiki/Molecular-beam_epitaxy), [ARPES](https://en.wikipedia.org/wiki/Angle-resolved_photoemission_spectroscopy#) and *etc*.
+Fascinated by [**Quantum Materials**](https://en.wikipedia.org/wiki/Quantum_materials), I aim to develop robust and efficient methodologies to study the emergent quantum phenomena in quantum materials.
 
 Currently, I am foucused on several projects:
 
-1. **World's First Four-Scanning Probe STM Construction**: We are now testing the temperature and pressure of the chambers and starting to prepare some samples.
+1. **Construction of the World's First Scanning-4-Probe Microscope**: I have debugged technical issues of its sputtering & annealing system and re-assembled this system to process the gold surface, obtaining atomic terraces on Au \( 111 \).
 
-2. **Dynamical Optical Quasicrystalline lattices with Tunable Geometry Phases**: I have completed the theoretical analysis regarding dynamical quasicyrstals and developed robust methodology to translate them while maintaining the same lattice geometry. Currently I am invited by [**Optica**](https://www.optica.org/) to write a corresponding paper to tell the story as the *First Author*.
+2. **2D Optical Quasicrystalline lattices with Tunable Geometry Phases**: I have completed the methodology to manipulate the dynamics of optical lattices and currently I am studying the higher-dimensional space of the quasicrystals.
 
-3. **In-Situ STM-MBE-Interconnected System Construction**: My research includes simulation of [our lab](http://staff.ustc.edu.cn/~huiz/index.html) by SolidWorks and design of Low-Temperature Comprehensive Platform. 
-
-4. **Investigating Rare-Earth Compound with STM**: Currently I am searching the CDW features and critical point of a specific rare-earth compound with STM.
+3. **STM Research on Charge Density Waves of Rare-Earth Compounds**: Currently I am searching the CDW features and critical point of a specific rare-earth compound with STM.
 
 
 
@@ -40,16 +38,15 @@ News
 ======
 <iframe style="border: 3px solid #ccc; overflow-y: scroll; height: 300px; width: 800px; " srcdoc="
   <ul>
-  <li><strong>2023-09-20:</strong> Awarded <strong>National Scholarship</strong></li>
-    <li><strong>2023-09-12:</strong> Invited to write a paper for <strong>Optica</strong>, titled <em>Dynamical Optical Quasicrystalline lattices with Tunable Geometry Phase</em>, <strong>(first author)</strong>, with <strong>Prof. Charles Brown @ Yale</strong> as the <em>corresponding author</em></li>
-    <li><strong>2023-09-11:</strong> Our paper <em>Research on solitons’ interactions in one-dimensional indium chains on Si(111) surfaces</em> was accepted by <em>Journal of Physics: Conference Series</em>, <strong>first author</strong> </li>
-   <li><strong>2023-07-10:</strong> Addressed an academic report <em>Research on solitons’ interactions in one-dimensional indium chains on Si(111) surfaces</em> at CMC2022~2023. And was awarded the <strong>Excellent Academic Speech Prize</strong> </li>
-<li><strong>2023-06-30:</strong> Invited to take a 6-month internship at <strong>Harvard</strong>, under the guidance of <strong>Prof. Jenny Hoffman</strong></li>
-     <li><strong>2023-05-25:</strong> Invited to attend the <em>Chinese Material Conference 2022~2023 </em>at Shenzhen City</li>
-     <li><strong>2023-03-10:</strong> Awarded <em>USTC Undergraduate Mentorship</em></li>
-<li><strong>2023-03-05:</strong> Begining of cooperation with <strong>Prof. Charles Brown @ Yale</strong></li>
-   <li><strong>2023-03-01:</strong> I will be the TA for class <em>Electronic and Circuits(210515.02.2023SP)</em> in 2023 spring</li>
-  <li><strong>2023-03-1:</strong> Awarded <strong>Excellent Teaching Assistant in USTC</strong></li>
+    <li><strong>2023-11-31:</strong> Our paper Research on solitons’ interactions in one-dimensional indium chains on Si(111) surfaces is published at [<em>Journal of Physics: Conference Series</em>, <strong>2639</strong>, 012051 (2023)](https://iopscience.iop.org/article/10.1088/1742-6596/2639/1/012051)</li>
+    <li><strong>2023-09-20:</strong> Awarded <strong>National Scholarship</strong></li>
+    <li><strong>2023-09-12:</strong> Invited to write an article for <strong>Optica</strong> as the lead author, with <strong>Prof. Charles Brown @ Yale</strong></li>
+    <li><strong>2023-08-15:</strong> Initiated a 6-month-long on-site research under the guidance of <strong>Prof. Jenny Hoffman @ Harvard</strong></li>
+  <li><strong>2023-07-10:</strong> Awarded the <strong>Excellent Academic Report Prize</strong> at the Chinese Material Conference 2022~2023, Shenzhen</li>
+    <li><strong>2023-03-10:</strong> Awarded the <strong>Excellent Peer Mentor in USTC</strong></li>
+    <li><strong>2023-03-05:</strong> Initiated a remote research under the guidance of <strong>Prof. Charles Brown @ Yale</strong></li>
+    <li><strong>2023-03-01:</strong> Obtain the TA position of <em>Electronic and Circuits(210515.02.2023SP)</em> in 2023 spring</li>
+    <li><strong>2023-03-01:</strong> Awarded the <strong>Excellent Teaching Assistant in USTC</strong></li>
     <!-- MORE -->
   </ul>
 "></iframe>
