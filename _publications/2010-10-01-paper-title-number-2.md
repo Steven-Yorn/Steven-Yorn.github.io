@@ -1,13 +1,6 @@
 ---
-title: "One-dimensional narrow graphene nanoribbon junctions and superlattices synthesized with one-benzene-ring width"
-collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'To be submitted to JACS soon.'
-
-
-
+title: "Graphene-like nanoribbons connected by four-/five- membered rings on pentacene/ picene precursors, Au(110) surface"
+excerpt: '<span style="font-size:medium;">**Author** Yu Yao, Shuangxiang Wu, Hui Zhang <br/>
+**Publication:** [arXiv](https://arxiv.org/abs/2311.10889) </span>'
 ---
 
-<!-- This paper is about number 1. The number 2 is left for future work. -->
-
-<!--[Download paper here](files/Yu Yao et al, Research on solitons’ interactions in one-dimensional indium chains on Si(111) surfaces.pdf)-->
