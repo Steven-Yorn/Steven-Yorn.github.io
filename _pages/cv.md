@@ -37,8 +37,8 @@ NOTE: \* represents the corresponding authorship and # represents the co-first a
 
 TECHNICAL EXPERTISE
 ======
-Experimental: AFM, STM, Material Surface Process (Sputtering, Annealing, Cleaving), UHV Operations.
-Numerical: ImageJ, Gwyddion, Gatan, VASP, MATLAB, LATEX, Origin, SOLIDWORKS.
+Experimental: AFM, STM, Material Surface Process (Sputtering, Annealing, Cleaving), UHV Operations.<br>
+Numerical: ImageJ, Gwyddion, Gatan, VASP, MATLAB, LATEX, Origin, SOLIDWORKS.<br>
 Language: C/C++, Python
 <br><br>
 
