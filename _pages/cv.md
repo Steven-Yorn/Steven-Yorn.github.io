@@ -15,7 +15,7 @@ EDUCATION
 * GPA: 3.99/4.3, Ranking: Top 3%
 <br><br>
   
-LAB EXPERIENCE
+LAB EXPERIENCES
 ======
 * [Lab for Low-dimensional Physics](http://staff.ustc.edu.cn/~cgzeng/index.html), USTC, Research Assistant, 2020.10 - Present 
 * [A Single-/Few-/Many- Body Quantum Physics Lab](https://brownlab.yale.edu/), Yale, Research Collaborator, 2023.02 - Present
@@ -42,7 +42,7 @@ TECHNICAL EXPERTISE
 * Language: C/C++, Python
 <br><br>
 
-Awards
+AWARDS
 ======
 * National Scholarship                                                                                                                         2023
 * USTC Fellowship                                                                                                                              2023
