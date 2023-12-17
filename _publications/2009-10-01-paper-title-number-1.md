@@ -1,5 +1,5 @@
 ---
-title: "<span style="font-size:medium;">Research on Solitons' Interactions in One-dimensional Indium Chains on Si(111) Surfaces</span>"
+title: "Research on Solitons' Interactions in One-dimensional Indium Chains on Si(111) Surfaces"
 collection: publications
 permalink: 'https://iopscience.iop.org/article/10.1088/1742-6596/2639/1/012051'
 excerpt: '<span style="font-size:small;">**Author** Yu Yao, Chaojie Luo, Hui Zhang <br/>
