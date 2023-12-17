@@ -1,4 +1,3 @@
-Help me polish my publicaiton section of my website written in Markdown.
 ---
 title: "<span style="font-size:medium;">Research on Solitons' Interactions in One-dimensional Indium Chains on Si(111) Surfaces</span>"
 collection: publications
