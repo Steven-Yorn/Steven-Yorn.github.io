@@ -1,11 +1,7 @@
 ---
 layout: archive
-
-permalink: /publi/
 author_profile: true
 ---
-
-{% include base_path %}
 
 EDUCATION
 ======
