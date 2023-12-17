@@ -1,8 +1,7 @@
 main:
 
   - title: "Publications"
-    url: /publications/
-    html: '<span style="margin-right: 180px;">Publications</span>'  
+    url: /publications/ 
 
   - title: "Teaching"
     url: /teaching/    
