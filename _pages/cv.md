@@ -26,9 +26,9 @@ PUBLICATION & MANUSCRIPTS
 ======
 Yu Yao, Chaojie Luo, Hui Zhang\*, **Research on solitons’ interactions in one-dimensional indium chains on Si(111) surfaces**, [*Journal of Physics: Conference Series*, **2639**, 012051 (2023)](https://iopscience.iop.org/article/10.1088/1742-6596/2639/1/012051).
 
-Yu Yao, Shuangxiang Wu, Hui Zhang\*, **Graphene-like nanoribbons connected by four-/five- membered rings on pentacene/ picene precursors, Au(110) surface**, in revision of *ACS Nano*.[ (arxiv:2311.10889)](https://arxiv.org/abs/2311.10889)
+Yu Yao, Shuangxiang Wu, Hui Zhang\*, **Graphene-like nanoribbons connected by four-/five- membered rings on pentacene/ picene precursors, Au(110) surface**, in revision of *ACS Nano*. [(arxiv:2311.10889)](https://arxiv.org/abs/2311.10889)
 
-Yu Yao#, Zhanbo Fang#, Jinze Fan#, Chaojie Luo, Shuangxiang Wu, Hui Zhang\*, **Ultra-high vacuum integrated interconnection system for in-situ material fabrication, transport and characterization**, in revision of Review of Scientific Instruments.
+Yu Yao#, Zhanbo Fang#, Jinze Fan#, Chaojie Luo, Shuangxiang Wu, Hui Zhang\*, **Ultra-high vacuum integrated interconnection system for in-situ material fabrication, transport and characterization**, in revision of *Review of Scientific Instruments*.
 
 Yu Yao, Cedric Wilson, Charles Brown\*, **Two-dimensional dynamic optical quasicrystalline lattices with 10-fold rotational symmetry**, invited for a paper by *Optica*.
 
