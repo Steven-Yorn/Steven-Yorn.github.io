@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 - **Phone：** (+1) 617 256 8015
-- **Email：** yuyao AT g DOT harvard DOT edu
+- **Email：** yuyao AT g DOT harvard DOT edu OR yy2281162447 AT mail DOT ustc DOT edu DOT cn
 - **Office：** B48-LISE, Harvard, Cambridge, MA, USA
 <br/>
 
