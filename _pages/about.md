@@ -38,7 +38,7 @@ News
 ======
 <iframe style="border: 3px solid #ccc; overflow-y: scroll; height: 300px; width: 800px; " srcdoc="
   <ul>
-    <1i><strong>2024-01-22:</strong> Obtain the TA position of <em>Atomic Physics(PHYS1005A.09)</em> in 2024 spring.<1i>
+    <1i><strong>2024-01-22:</strong> Obtain the TA position of <em>Atomic Physics(PHYS1005A.09)</em> in 2024 spring.</1i>
     <li><strong>2023-11-31:</strong> Our paper Research on solitons’ interactions in one-dimensional indium chains on Si(111) surfaces is published at <em>Journal of Physics: Conference Series</em>, <strong>2639</strong>, 012051 (2023).</li>
     <li><strong>2023-09-20:</strong> Awarded <strong>National Scholarship.</strong></li>
     <li><strong>2023-09-12:</strong> Invited to write an article for <strong>Optica</strong> as the lead author, with <strong>Prof. Charles Brown @ Yale.</strong></li>
